@@ -9,7 +9,6 @@ public class Strreverse {
         String A=sc.next();
         /* Enter your code here. Print output to STDOUT. */
         String B="";
-        // String C=A;
         int i;
         for(i=A.length()-1;i>=0;i--)
             B = B + A.charAt(i); 
